@@ -34,6 +34,11 @@
             "email_text": "Почта",
             "phone_text": "Номер телефона",
             "contact-us": "Свяжитесь с нами:",
+            "footer_link-home" : "Главная" ,
+            "footer_link-delivery": "Доставка и оплата",
+            "footer_link-abuot": "О нас",
+            "footer_link-contacts": "Контакты",
+            "footer_link-faq": "FAQ",
             "copyright_rights": "Все права защищены",
             "contact_to_us": "Связаться с нами",
             "privacy_policy": "Политика конфиденциальности"
@@ -75,6 +80,11 @@
             "email_text": "Пошта",
             "phone_text": "Номер телефону",
             "contact-us": "Зв'яжіться з нами:",
+            "footer_link-home" : "Головна" ,
+            "footer_link-delivery": "Доставка і оплата",
+            "footer_link-abuot": "Про нас",
+            "footer_link-contacts": "Контакти",
+            "footer_link-faq": "FAQ",
             "copyright_rights": "Всі права захищені",
             "contact_to_us": "Зв'язатися з нами",
             "privacy_policy": "Політика конфіденційності"
