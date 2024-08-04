@@ -1,4 +1,3 @@
-// js/script.js
 function toggleLanguage() {
     const checkbox = document.getElementById('language-toggle');
     let currentLang = localStorage.getItem('language') || 'ru';
@@ -20,11 +19,10 @@ function applyLanguage() {
             const elements = document.querySelectorAll('[data-i18n]');
             elements.forEach(element => {
                 const key = element.getAttribute('data-i18n');
-                element.textContent = translations[lang][page][key];
+                element.innerHTML = translations[lang][page][key];
             });
         });
 
-    // Update checkbox state and slider text based on the current language
     const checkbox = document.getElementById('language-toggle');
     checkbox.checked = (lang === 'ua');
     document.querySelector('.current-lang').textContent = checkbox.checked ? 'UA' : 'RU';
