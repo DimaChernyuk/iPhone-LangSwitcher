@@ -1,5 +1,9 @@
 {
     "ru": {
+        "index" : {
+
+        },
+
         "delivery": {
             "title": "Доставка",
             "header_link-home": "Главная",
@@ -42,9 +46,29 @@
             "copyright_rights": "Все права защищены",
             "contact_to_us": "Связаться с нами",
             "privacy_policy": "Политика конфиденциальности"
+        },
+
+        "about us" : {
+
+        },
+
+        "contacts" : {
+
+        },
+
+        "faq" : {
+
+        },
+
+        "privacypolicy" : {
+
         }
     },
     "ua": {
+        "index" : {
+
+        },
+        
         "delivery": {
             "title": "Доставка",
             "header_link-home": "Головна",
@@ -88,6 +112,22 @@
             "copyright_rights": "Всі права захищені",
             "contact_to_us": "Зв'язатися з нами",
             "privacy_policy": "Політика конфіденційності"
+        },
+
+        "about us" : {
+
+        },
+
+        "contacts" : {
+
+        },
+
+        "faq" : {
+
+        },
+
+        "privacypolicy" : {
+            
         }
     }
 }
